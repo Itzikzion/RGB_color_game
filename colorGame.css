@@ -1,0 +1,27 @@
+.navbar-nav > button {
+    width: fit-content;
+}
+
+.box{
+	    /* height: 100px;  */
+	   /* width: 100px; */
+	   background: black;
+	   border-radius: 4px;   
+	   
+	     float:left;
+    position: relative;
+    width: 20%;
+	height: 20%; 
+    padding-bottom : 20%; /* = width for a 1:1 aspect ratio */
+	margin:1.66%;
+
+
+
+	   }
+
+/* .col-lg-2, .col-md-3, .col-xs-6 { */
+	     /* margin-top: 12px !important; */
+    /* }col-lg-2, .col-md-3, .col-xs-6 { */
+	     /* margin-top: 12px !important; */
+    /* } */
+
